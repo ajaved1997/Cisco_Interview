@@ -5,4 +5,4 @@ My Java Applicaion is called src/GetLogsExtension.java. I have also attached the
 
 If you wish to execute my program, complete the following steps:
 1) Change the directory/location of the log file 
-2) Add 3 jar files to your program. 
+2) Add 3 jar files to your build path. 
